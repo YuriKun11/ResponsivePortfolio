@@ -25,7 +25,7 @@ To get started with this template, follow these steps:
 
 ## Support
 
-If you encounter any issues or have any questions about this template, feel free to reach out to me via email at [your@email.com](mailto:your@email.com).
+If you encounter any issues or have any questions about this template, feel free to reach out to me via email at jyreyes1111@gmail.com
 
 ## License
 
