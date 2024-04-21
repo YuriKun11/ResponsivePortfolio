@@ -1,0 +1,8 @@
+@media screen and (max-width: 600px) {
+   .navlinks{
+    display: none;
+   }
+   .logo-wrap .burger{
+    display: block;
+    }
+}
