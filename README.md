@@ -1,4 +1,4 @@
-# Responsive Portfolio Template
+# Responsive Portfolio Templates and more
 
 ## Overview
 
@@ -26,7 +26,3 @@ To get started with this template, follow these steps:
 ## Support
 
 If you encounter any issues or have any questions about this template, feel free to reach out to me via email at jyreyes1111@gmail.com
-
-## License
-
-This template is licensed under the [MIT License](LICENSE).
